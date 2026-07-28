@@ -1,7 +1,7 @@
 ## Guilherme Rodrigues 👋
 
-Coordenador de Manutenção Predial multiescopo · construindo IA aplicada a Facilities  
-Power BI | Python | Full-stack | Impressão 3D  
+Coordenador de Manutenção Predial multiescopo · construindo IA aplicada a Facilities e consultoria de dados/Power BI  
+Python | Power BI | Full-stack | Impressão 3D  
 Criador de conteúdo tech → [Hypersonic Gaming](https://youtube.com/channel/UCkUoJfkhp-WHO6fO4K2NRGA)
 
 ---
@@ -10,6 +10,7 @@ Criador de conteúdo tech → [Hypersonic Gaming](https://youtube.com/channel/UC
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -26,9 +27,11 @@ Criador de conteúdo tech → [Hypersonic Gaming](https://youtube.com/channel/UC
 | Projeto | Descrição | Status |
 |---|---|---|
 | **Verity AI** | SaaS multi-tenant de auditoria inteligente para Facilities: a IA lê PMOC, inspeções e notas fiscais, aplica as regras do cliente e entrega o relatório. React + FastAPI + PostgreSQL (RLS) + Claude | 🔧 Piloto · 🔒 Privado |
-| Dashboard Corporativo | Controle de contrato: preventivas, corretivas, financeiro, almoxarifado | 🔒 Privado |
+| **Gestão Contrato Lote B** | Automação e auditoria de contrato de facilities: preventivas PMOC, inspeções de segurança, financeiro, almoxarifado — app Streamlit com PDCA e tarefas semanais automatizadas (origem do Verity AI) | ✅ Em produção · 🔒 Privado |
+| **Claude PowerBI Toolkit** | Skills de IA (Claude Code) pra auditar, documentar e criar medidas DAX em modelos Power BI — usado em projetos de consultoria pra diferentes clientes | ✅ Em uso · 🔒 Privado |
+| **LinkedIn Carrosséis** | Gerador de carrosséis pra LinkedIn com IA: conteúdo → slides 1080×1080 → PDF, engine de design reutilizável (Playwright + Pillow) | ✅ Em uso · 🔒 Privado |
 | Dashboard Financeiro | Controle financeiro pessoal | 🔒 Privado |
-| Automações Python | Agentes de geração de relatórios e auditoria PMOC (origem do Verity AI) | ✅ Em produção |
+| [**Python Facility Tools**](https://github.com/guihrodriguess/python-facility-tools) | Scripts utilitários pra gestão de manutenção predial | ✅ Público |
 
 ---
 
