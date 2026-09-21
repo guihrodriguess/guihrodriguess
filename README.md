@@ -26,8 +26,8 @@ Criador de conteúdo tech → [Hypersonic Gaming](https://youtube.com/channel/UC
 
 | Projeto | Descrição | Status |
 |---|---|---|
-| **Verity AI** | SaaS multi-tenant de auditoria inteligente para Facilities: a IA lê PMOC, inspeções e notas fiscais, aplica as regras do cliente e entrega o relatório. React + FastAPI + PostgreSQL (RLS) + Claude | 🔧 Piloto · 🔒 Privado |
-| **Gestão Contrato Lote B** | Automação e auditoria de contrato de facilities: preventivas PMOC, inspeções de segurança, financeiro, almoxarifado — app Streamlit com PDCA e tarefas semanais automatizadas (origem do Verity AI) | ✅ Em produção · 🔒 Privado |
+| **[Verity](https://useverity.com.br)** | Ecossistema de 4 produtos de IA para Facilities: **Audit** (auditoria de PMOC/inspeções/notas fiscais), **Way** (roteirização e cronograma de campo), **Scope** (dimensionamento de equipe e preço de proposta) e **Ops** (CMMS + governança de contrato + IA operacional). React + FastAPI + PostgreSQL (RLS) + Claude | 🔧 Piloto · 🔒 Privado |
+| **Gestão Contrato Lote B** | Automação e auditoria de contrato de facilities: preventivas PMOC, inspeções de segurança, financeiro, almoxarifado — app Streamlit com PDCA e tarefas semanais automatizadas (origem do Verity) | ✅ Em produção · 🔒 Privado |
 | **Claude PowerBI Toolkit** | Skills de IA (Claude Code) pra auditar, documentar e criar medidas DAX em modelos Power BI — usado em projetos de consultoria pra diferentes clientes | ✅ Em uso · 🔒 Privado |
 | **LinkedIn Carrosséis** | Gerador de carrosséis pra LinkedIn com IA: conteúdo → slides 1080×1080 → PDF, engine de design reutilizável (Playwright + Pillow) | ✅ Em uso · 🔒 Privado |
 | Dashboard Financeiro | Controle financeiro pessoal | 🔒 Privado |
