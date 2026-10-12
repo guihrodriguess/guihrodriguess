@@ -1,48 +1,32 @@
-## Guilherme Rodrigues 👋
+## Guilherme Rodrigues
 
-Coordenador de Manutenção Predial multiescopo · construindo IA aplicada a Facilities e consultoria de dados/Power BI  
-Python | Power BI | Full-stack | Impressão 3D  
-Criador de conteúdo tech → [Hypersonic Gaming](https://youtube.com/channel/UCkUoJfkhp-WHO6fO4K2NRGA)
+Engenheiro eletricista e coordenador de contratos de manutenção predial. Construo o **[Atestra](https://atestra.com.br)**: software que confere o preço do pregão, o plano das equipes e a ficha de campo de contratos de serviço terceirizado.
 
----
-
-### 🛠️ Stack atual
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=flat&logo=anthropic&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+Belo Horizonte · Python · TypeScript · PostgreSQL · IA aplicada
 
 ---
 
-### 📂 Projetos
+### Atestra
 
-| Projeto | Descrição | Status |
-|---|---|---|
-| **[Verity](https://useverity.com.br)** | Ecossistema de 4 produtos de IA para Facilities: **Audit** (auditoria de PMOC/inspeções/notas fiscais), **Way** (roteirização e cronograma de campo), **Scope** (dimensionamento de equipe e preço de proposta) e **Ops** (CMMS + governança de contrato + IA operacional). React + FastAPI + PostgreSQL (RLS) + Claude | 🔧 Piloto · 🔒 Privado |
-| **Gestão Contrato Lote B** | Automação e auditoria de contrato de facilities: preventivas PMOC, inspeções de segurança, financeiro, almoxarifado — app Streamlit com PDCA e tarefas semanais automatizadas (origem do Verity) | ✅ Em produção · 🔒 Privado |
-| **Claude PowerBI Toolkit** | Skills de IA (Claude Code) pra auditar, documentar e criar medidas DAX em modelos Power BI — usado em projetos de consultoria pra diferentes clientes | ✅ Em uso · 🔒 Privado |
-| **LinkedIn Carrosséis** | Gerador de carrosséis pra LinkedIn com IA: conteúdo → slides 1080×1080 → PDF, engine de design reutilizável (Playwright + Pillow) | ✅ Em uso · 🔒 Privado |
-| Dashboard Financeiro | Controle financeiro pessoal | 🔒 Privado |
-| [**Python Facility Tools**](https://github.com/guihrodriguess/python-facility-tools) | Scripts utilitários pra gestão de manutenção predial | ✅ Público |
+| Produto | O que faz |
+|---|---|
+| **[Scope](https://atestra.com.br/scope)** | Monta a planilha de custos do pregão no modelo da IN 5, com a escada de lances e a conferência da habilitação |
+| **[Way](https://atestra.com.br/way)** | Dimensiona equipes e rotas de contratos com muitas unidades: estrada, pernoite e o que cabe no mês |
+| **[Audit](https://atestra.com.br/audit)** | Confere fichas de PMOC, rondas, inspeções e notas fiscais contra as regras do contrato |
 
----
+Os três nasceram da rotina de coordenação de um contrato real. Código privado; demonstrações sem cadastro no site.
 
-### 📺 Conteúdo
-
-Reviews de gadgets, setup e produtos de informática nas principais plataformas.  
-[YouTube](https://youtube.com/channel/UCkUoJfkhp-WHO6fO4K2NRGA) · [Instagram](https://instagram.com/hypersonicgamming) · [TikTok](https://tiktok.com/@hypersonicgamming) · [Beacons](https://beacons.ai/hypersonicgaming)
+React · FastAPI · PostgreSQL com Row-Level Security · Docker · Claude
 
 ---
 
-### 📫 Contato
+### Projetos públicos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-rodrigues-a532077b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guihrodriguess@gmail.com)
+- **[ai-engineering-portfolio](https://github.com/guihrodriguess/ai-engineering-portfolio)**: cinco sistemas de IA levados além da demo (RAG com avaliação, agente com controle de execução, pipeline de classificação, fila assíncrona, app multi-tenant com RLS real).
+- **[python-facility-tools](https://github.com/guihrodriguess/python-facility-tools)**: scripts de apoio à gestão de manutenção predial.
+
+---
+
+### Contato
+
+[LinkedIn](https://linkedin.com/in/guilherme-rodrigues-a532077b/) · [Atestra no LinkedIn](https://linkedin.com/company/atestra-br) · contato@atestra.com.br
