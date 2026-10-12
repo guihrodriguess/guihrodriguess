@@ -29,4 +29,4 @@ React · FastAPI · PostgreSQL com Row-Level Security · Docker · Claude
 
 ### Contato
 
-[LinkedIn](https://linkedin.com/in/guilherme-rodrigues-a532077b/) · [Atestra no LinkedIn](https://linkedin.com/company/atestra-br) · contato@atestra.com.br
+[Portfólio](https://guihrodriguess.github.io) · [LinkedIn](https://linkedin.com/in/guilherme-rodrigues-a532077b/) · [Atestra no LinkedIn](https://linkedin.com/company/atestra-br) · contato@atestra.com.br
